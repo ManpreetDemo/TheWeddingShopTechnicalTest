@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TheWeddingShop/TheWeddingShop-TechnicalTask/obj/Debug
+/TheWeddingShop/.vs/TheWeddingShop-TechnicalTask/v15/Server/sqlite3
+/.vs/TechnicalTests/v15
